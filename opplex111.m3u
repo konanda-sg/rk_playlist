@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="Tme-IPTVM3Y" tvg-language="Unknown",TME NUBCARDER
-
+https://m3uplaylist-plum.vercel.app/m3u_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/äęóźėö_welcome_ėöóźäę.png" group-title="General" tvg-name="Äęóźėö Welcome Ėöóźäę" tvg-language="Unknown",Äęóźėö Welcome Ėöóźäę
 https://allinonereborn.fun/opplex1991/index.php?id=25974
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_ary_digital.png" group-title="General" tvg-name="Pk Ary Digital" tvg-language="Unknown",Pk Ary Digital
