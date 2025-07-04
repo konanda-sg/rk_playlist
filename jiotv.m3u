@@ -3084,8 +3084,8 @@ https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_3114.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="JoinÃ°Å¸Â¤â€“@allinone_reborn" group-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn
-https://embed-cloudfront.wistia.com/deliveries/282114c59788866afb4d40b935a62258.m3u8
+#EXTINF:-1 tvg-id="" group-title="Join @IPTVM3Y" group-logo="https://i.ibb.co/My3zVpGy/images.png" tvg-logo="https://i.ibb.co/My3zVpGy/images.png" ,tmenubcarder
+https://m3uplaylist-plum.vercel.app/m3u_playlist.m3u8
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 #EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
