@@ -2053,8 +2053,8 @@ https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_3112.m3u8
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_3113.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/vst_india_news.png" group-title="News" tvg-name="Vst India News" tvg-language="Unknown",Vst India News
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_3114.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="Tmeallinonereborn" tvg-language="Unknown",Tmeallinonereborn
-https://embed-cloudfront.wistia.com/deliveries/282114c59788866afb4d40b935a62258.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="IPTVM3Y" tvg-language="hindi",Tmenubcarder
+https://m3uplaylist-plum.vercel.app/m3u_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/sun_neo_hd.png" group-title="General" tvg-name="Sun Neo Hd" tvg-language="Unknown",Sun Neo Hd
 https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/sun_music_hd.png" group-title="Music" tvg-name="Sun Music Hd" tvg-language="Unknown",Sun Music Hd
