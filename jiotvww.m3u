@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="Tmeallinonereborn" tvg-language="Unknown",Tmeallinonereborn
-https://embed-cloudfront.wistia.com/deliveries/282114c59788866afb4d40b935a62258.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="tme_nubcarder" tvg-language="Unknown",I m Rk...
+
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/cnbc_tv18_prime.png" group-title="General" tvg-name="Cnbc Tv18 Prime" tvg-language="Unknown",Cnbc Tv18 Prime
 https://mintos.allinonereborn.xyz/jiotv-ww31/app/ts_live_143.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/colors_hd.png" group-title="General" tvg-name="Colors Hd" tvg-language="Unknown",Colors Hd
