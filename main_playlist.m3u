@@ -1,10 +1,13 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/undertaker321/epg/refs/heads/main/epg.xml.gz" billed-till="1755216000" billed-msg="Join @IPTV07INDIA on Telegram"
+
+#EXTINF:-1 tvg-id="0" tvg-name="" tvg-language="Musical" tvg-logo="https://as1.ftcdn.net/jpg/04/49/20/98/1000_F_449209843_5f24RKLJdNSph9NyQTxzo6cmzmPOSsmK.webp" group-title="IPTV07INDIA" group-logo="https://as1.ftcdn.net/jpg/04/49/20/98/1000_F_449209843_5f24RKLJdNSph9NyQTxzo6cmzmPOSsmK.webp", 07 
+https://raw.githubusercontent.com/Jatin-0-7/intro/main/intro_playlist0.ts
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="•●★--- Welcome ----★●•" tvg-logo="" group-title="GOLF",•●★--- Welcome ----★●•
 https://xtream07.vercel.app/live/opplex/free/244975.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS GOLF FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="GOLF",|UK| SKY SPORTS GOLF FHD
 https://xtream07.vercel.app/live/opplex/free/244976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nubcarder"" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="t.me/nubcarder",|UK| SKY SPORTS GOLF FHD
-https://m3uplaylist-plum.vercel.app/m3u_playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf HD" tvg-logo="http://109.238.11.8:25461/logo/tv/gg/golf_channel_us.png" group-title="GOLF",US: NBC Golf HD
 https://xtream07.vercel.app/live/opplex/free/244977.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US: GOLF CHANNEL" tvg-logo="https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png" group-title="GOLF",US: GOLF CHANNEL
@@ -325,7 +328,7 @@ https://xtream07.vercel.app/live/opplex/free/153291.m3u8
 https://xtream07.vercel.app/live/opplex/free/413313.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK | JALWA MUSIC" tvg-logo="https://www.trendinginsocial.com/wp-content/uploads/2016/06/Jalwa-Logo-640x512.png" group-title="PAKISTAN | ENTERTAINMENT",PK | JALWA MUSIC
 https://xtream07.vercel.app/live/opplex/free/167670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK: Afghan Tv" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Afghan Tv
+#EXTINF:-1 tvg-id="" tvg-name="PK: Afghan Tv*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Afghan Tv*
 https://xtream07.vercel.app/live/opplex/free/167888.m3u8
 #EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK | GEO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS
 https://xtream07.vercel.app/live/opplex/free/221343.m3u8
